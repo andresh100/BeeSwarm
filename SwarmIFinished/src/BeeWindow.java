@@ -8,7 +8,7 @@ import javafx.scene.paint.Color;
 
 /**
  * 
- * @author pipWolfe
+ * @author Andre Hansen
  *
  */
 public class BeeWindow extends DrawingPane {

@@ -5,6 +5,7 @@ import javafx.scene.shape.Line;
 
 /*
  * FollowBee Class
+ * @author Andre Hansen
  */
 public class FollowBee extends Bee{
 	

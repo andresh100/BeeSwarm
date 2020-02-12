@@ -5,6 +5,7 @@ import javafx.scene.shape.Line;
 
 /*
  * QueenBee Class
+ * @author Andre Hansen
  */
 public class QueenBee extends Bee{
 	private BeeWindow window;

@@ -9,7 +9,7 @@ import javafx.scene.shape.Line;
 /**
  * Models a Bee, which moves around the screen. The Bee is drawn 
  * as a line which traces its path from one point to another.
- * @author pipWolfe
+ * @author Andre Hansen
  *
  */
 public class Bee {
