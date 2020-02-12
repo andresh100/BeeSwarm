@@ -19,4 +19,4 @@ This is a java application that simulates two queen bees and a two swarms follow
 * Download Eclipse, or any other Java IDE
 * Import the JavaFx files from: https://gluonhq.com/products/javafx/
 * Follow the docs on how to import from the eclipse tab from: https://openjfx.io/openjfx-docs/
-* Run Bee.Window.java file
+* Run BeeWindow.java file
